@@ -1,0 +1,346 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+    /*navabr start*/
+.custom_fixed {
+    right: 0;
+    left: 0;
+    background-color: rgba(254, 188, 56, 0.77);
+}
+.menu ul li a {
+    color: #040404 !important;
+    text-align: center;
+}
+/*banner start*/
+.slider1_text {
+    padding-top: 30px;
+}
+.slider1_text h1{
+    font-size: 30px;
+    text-align: center;
+}
+.slider1_text h2{
+    font-size: 22px;
+    text-align: center;
+}
+.slider1_text h3{
+	text-align: center;
+}
+
+/*banner end*/
+/*about start*/
+#about {
+    padding: 20px 0;
+}
+.about_text p {
+    text-align: center;
+}
+.common_text{
+    text-align: center;
+}
+.about_text button {
+    margin: 0 70px;
+}
+.shadow h2 {
+    font-size: 40px;
+}
+.shadow h1 {
+    left: 3px;
+    font-size: 55px !important;
+}
+.h1 {
+    left: 29% !important;
+    top: 10px !important;
+}
+/*about end*/ 
+/*resume start*/
+#resume {
+    padding: 30px 0;
+}
+.custom_card {
+    padding: 10px;
+}
+.custom_card h2 {
+    font-size: 18px;
+}
+.button {
+    margin-top: 35px;
+}
+/*services start*/
+#services {
+    padding: 30px 0;
+}
+.services_text h3 {
+    font-size: 15px;
+}
+/*skil start*/
+#skills {
+    padding: 30px 0;
+}
+/*project start*/
+#projects {
+    padding: 30px 0;
+}
+/*blog start*/
+#blog {
+    padding: 30px 0;
+}
+.blog_text {
+    padding: 25px 0;
+}
+.blog_text h2 {
+    font-weight: 500;
+    font-size: 16px;
+}
+.box {
+    padding: 30px 0;
+}
+.blog_footer h2 {
+    font-size: 32px;
+}
+.blog_footer {
+    margin: 80px 0 70px;
+}
+/*contact start*/
+#contact {
+    padding: 60px 0;
+}
+.py-100 {
+    padding: 70px 0;
+}
+.contact_details h4 {
+    font-size: 16px;
+}
+.contact-form {
+    margin: 25px 15px;
+}
+.contact-form input {
+    height: 40px;
+}
+.contact-form textarea {
+    height: 105px;
+}
+/*footer start*/
+.footer_top {
+    padding-bottom: 60px;
+}
+.footer_bottom ul li {
+    padding: 5px 0px;
+}
+
+
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+/*banner start*/
+.slider1_text {
+    padding-top: 30px;
+}
+.slider1_text h1{
+    font-size: 30px;
+    text-align: center;
+}
+.slider1_text h2{
+    font-size: 22px;
+    text-align: center;
+}
+.slider1_text h3{
+	text-align: center;
+}
+
+/*banner end*/
+/*about start*/
+#about {
+    padding: 20px 0;
+}
+.common_text{
+    text-align: center;
+}
+.shadow h2 {
+    font-size: 40px;
+}
+.shadow h1 {
+    left: 3px;
+    font-size: 55px !important;
+}
+.h1 {
+    left: 127px !important;
+    top: 10px !important;
+}
+/*about end*/ 
+/*resume start*/
+#resume {
+    padding: 30px 0;
+}
+.custom_card h2 {
+    font-size: 18px;
+}
+/*services start*/
+#services {
+    padding: 60px 0;
+}
+.services_text h3 {
+    font-size: 15px;
+}
+/*project start*/
+#projects {
+    padding: 60px 0;
+}
+/*blog start*/
+#blog {
+    padding: 60px 0;
+}
+.blog_text {
+    padding: 60px 30px;
+    text-align: center;
+}
+.blog_text h2 {
+    font-weight: 500;
+    font-size: 16px;
+}
+.box {
+    padding: 30px 0;
+}
+.blog_footer h2 {
+    font-size: 32px;
+}
+/*contact start*/
+#contact {
+    padding: 60px 0;
+}
+.py-100 {
+    padding: 70px 0;
+}
+.contact_details h4 {
+    font-size: 22px;
+}
+.contact-form {
+    margin: 25px 15px;
+}
+.contact-form input {
+    height: 40px;
+}
+.contact-form textarea {
+    height: 105px;
+}
+/*footer start*/
+.footer_bottom ul li {
+    padding: 5px 0px;
+}
+.footer_bottom{
+    padding-bottom: 35px;
+}
+
+
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+/*banner start*/
+.slider1_text h1 {
+    font-size: 40px;
+}
+.slider1_text h2 {
+    font-size: 22px;
+}
+/*banner end*/
+/*about start*/
+#about {
+    padding: 60px 0;
+}
+.shadow h2 {
+    font-size: 40px;
+}
+.shadow h1 {
+    left: 3px;
+    font-size: 65px !important;
+}
+/*about end*/ 
+/*resume start*/
+#resume {
+    padding: 60px 0;
+}
+.custom_card h2 {
+    font-size: 20px;
+}
+/*skils start */
+#skills {
+    padding: 40px 0;
+}
+/*services start*/
+#services {
+    padding: 60px 0;
+}
+.services_text h3 {
+    font-size: 15px;
+}
+/*project start*/
+#projects {
+    padding: 60px 0;
+}
+/*blog start*/
+#blog {
+    padding: 60px 0;
+}
+.blog_text {
+    padding: 60px 0;
+}
+.blog_text h2 {
+    font-weight: 500;
+    font-size: 16px;
+}
+.box {
+    padding: 30px 0;
+}
+.blog_footer h2 {
+    font-size: 32px;
+}
+/*contact start*/
+#contact {
+    padding: 60px 0;
+}
+.py-100 {
+    padding: 70px 0;
+}
+.contact_details h4 {
+    font-size: 16px;
+}
+.contact-form {
+    margin: 25px 0px;
+}
+.contact-form input {
+    height: 40px;
+}
+.contact-form textarea {
+    height: 105px;
+}
+
+
+
+
+
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+/*banner start*/
+.slider1_text h1 {
+    font-size: 50px;
+}
+/*banner end*/
+/*about start*/
+#about {
+    padding: 60px 0;
+}
+/*blog start*/
+.box {
+    padding: 30px 0;
+}
+
+
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+
+}
